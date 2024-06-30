@@ -6,7 +6,7 @@ Here is the link to my Power BI report : https://app.powerbi.com/groups/me/repor
 
 WORKFLOW : 
 
-![Flowchart (1)](https://github.com/yashrajcan/AtliQ-Hardware-Sales-Insights-Project/assets/111443067/ab273bcb-b5f0-4176-9e8f-7e09eaf1b441)
+![Flowchart (2)](https://github.com/yashrajcan/AtliQ-Hardware-Sales-Insights-Project/assets/111443067/6b8ce16c-2c97-4166-95c0-ecd5ee38a414)
 
 
 
